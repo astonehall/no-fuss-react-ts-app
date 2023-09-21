@@ -1,6 +1,6 @@
 ## See the blog post
 
-[[](https://github.com/facebook/create-react-app).](https://awstonehall.vercel.app/blog/post/react-getting-started-typescript)
+[https://github.com/facebook/create-react-app](https://awstonehall.vercel.app/blog/post/react-getting-started-typescript)
 
 # Getting Started with Create React App
 
